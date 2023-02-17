@@ -1,5 +1,5 @@
 # Matheus Machado
 
 - 25 years old.
-- Looking for more experience in programming.
+- Working hard for my first job as a Software Developer.
 - Currently interested in Front-End development.
